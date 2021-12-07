@@ -263,6 +263,7 @@ padding-top: 10px;
     left: 0;
     height: 100%;
     color: transparent;
+    text-decoration-color: black;
     text-align: center;
     padding: 10px;
     /* background-color: white; */
@@ -275,7 +276,8 @@ padding-top: 10px;
 .portfolio-image-container:hover .portfolio-details {
     background-color: #80808078;
     /* display: block; */
-    color: blueviolet;
+    color: black;
+    font-family: cursive;
 }
 /*timeline*/
 .timeline{
